@@ -2,10 +2,13 @@ Josefino Pedro
 
 Engenheiro  de Softw
 
-👋 Olá 
-- 👀 Eu'sou especilizado em Desenvolvimento de Web
-- 🌱 A linguagem que eu domino é HTML,CSS,JS e framework tipo React, Vue.js,SAS
-- 💞️ Estou procurando colaborar em Desenvolvimento de Web
+👋 Olá  
+
+	I specialize in Web Development The language I master is HTML, CSS, JS and framework like React, Vue.js,SAS
+  
+- 🚀 Trabalho no Escritório 
+- 😊 Posso te ajudar com CSS Grid Layout e Flexbox
+- 💻  Pilha principal:PHP, Node.js,Gulp
 - 📫 Contato:Linkedin | https://www.linkedin.com/in/josefino-pedro-114a93269/
 
 <!---
