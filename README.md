@@ -1,14 +1,7 @@
-Josefino Pedro
-
-Engenheiro  de Softw
-
-👋 Olá  
-
-Sou specialista em Desenvolvimento Web A linguagem que domino é HTML, CSS, JS e frameworks como React, Vue.js,SASS
   
-- 🚀 Trabalho no Escritório 
-- 😊 Posso te ajudar com CSS Grid Layout e Flexbox
-- 💻  Pilha principal:PHP, Node.js,Gulp
+-  👋 Olá, sou o Josefino Pedro
+- 👀 Estou interessado em HTML, CSS, JavaScript, React,TypeScript, Vue.js
+- 💻 Pilha principal: Front-end
 - 📫 Contato:Linkedin | https://www.linkedin.com/in/josefino-pedro-114a93269/
 
 <!---
