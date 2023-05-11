@@ -4,7 +4,7 @@ Engenheiro  de Softw
 
 👋 Olá  
 
-	I specialize in Web Development The language I master is HTML, CSS, JS and framework like React, Vue.js,SAS
+	I specialize in Web Development The language I master is HTML, CSS, JS and framework like React, Vue.js,SASS
   
 - 🚀 Trabalho no Escritório 
 - 😊 Posso te ajudar com CSS Grid Layout e Flexbox
