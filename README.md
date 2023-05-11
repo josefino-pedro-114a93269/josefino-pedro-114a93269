@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @josefino-pedro-114a93269
+
+
+
+
+
+
+- 
 - 👀 Eu'sou especilizado em Desenvolvimento de Web
-- 🌱 A linguge que eu domino é HTML,CSS e JAVASCRIPT
+- 🌱 A linguge que eu domino é HTML,CSS e JS
 - 💞️ Estou procurando colaborar em Desenvolvimento de Web
 - 📫 Contato:Linkedin | https://www.linkedin.com/in/josefino-pedro-114a93269/
 
